@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🇰🇷 No Such Place 비공식 한국어 패치
+# No Such Place 비공식 한국어 패치
 
 Steam 게임 **No Such Place**의 영어 문구를 한국어로 바꿔 주는 비공식 패치입니다.
 
@@ -95,3 +95,14 @@ Steam의 **게임 파일 무결성 확인**으로도 복구할 수 있습니다.
 
 - 이 패치는 게임 제작사와 관계없는 **비공식 패치**입니다.
 - 번역 오류나 버그는 [Issues](https://github.com/SAM7599/No-Such-Place-Korean-Patch/issues)에 남겨 주세요.
+
+---
+
+## 🖼️ 한국어 패치 적용 스크린샷
+<img width="2560" height="1440" alt="3299050_20261018092911_1" src="https://github.com/user-attachments/assets/79f38388-70f6-4995-acf6-278141740cd0" />
+<img width="2560" height="1440" alt="3299050_20261018092816_1" src="https://github.com/user-attachments/assets/12a28bef-9593-4f1d-b0e8-342b1b7e2720" />
+<img width="2560" height="1440" alt="3299050_20261018092736_1" src="https://github.com/user-attachments/assets/8d86f979-9f73-401d-81af-baa86a17130e" />
+<img width="2560" height="1440" alt="3299050_20261018092718_1" src="https://github.com/user-attachments/assets/84d54a96-dc46-47c1-bbe9-e5f383ae9cea" />
+<img width="2560" height="1440" alt="3299050_20261018092643_1" src="https://github.com/user-attachments/assets/c20bea07-728f-42fb-beb2-066080f75128" />
+<img width="2560" height="1440" alt="3299050_20261018092526_1" src="https://github.com/user-attachments/assets/62356523-4a96-4cdb-9e39-3c275087d12d" />
+
