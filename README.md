@@ -8,13 +8,15 @@ Steam 게임 **No Such Place**의 영어 문구를 한국어로 바꿔 주는 �
 ![Platform](https://img.shields.io/badge/Windows-Steam-blue?style=for-the-badge)
 ![Translation](https://img.shields.io/badge/번역-기계번역-orange?style=for-the-badge)
 
+</div>
+
+---
+
 | 항목 | 내용 |
 |---|---|
 | ✍️ 제작 | SAM_7599 |
 | 🎮 대상 게임 | No Such Place (Steam) |
 | 🌐 번역 방식 | 기계번역 (공식 한국어가 있는 문구는 공식 문구 그대로 사용) |
-
-</div>
 
 ---
 
@@ -25,7 +27,22 @@ Steam 게임 **No Such Place**의 영어 문구를 한국어로 바꿔 주는 �
 - 🌍 설정의 언어 목록에 한국어 항목 활성화
 - 🎬 인트로 영상 한국어 자막
 - 📻 URC 채팅 말투와 이름·부서 표기 통일
+- 🖼️ 사망 화면 제목 이미지(임무 실패), 조준경 사거리 표시 등 화면 속 고정 문구 한글화
+- 🔠 지도 글자가 또렷하게 보이도록 굵은 한글 글꼴 적용
+- 🛡️ **실시간 한글 보호 (선택)** – 게임 업데이트나 다른 패치로 번역이 원본으로 돌아가도 번역 문구를 한글로 되돌려 줍니다.
 - 🏷️ 게임 크레딧과 메인 메뉴 좌측 상단에 제작자 표기
+
+---
+
+## 📸 적용 스크린샷
+
+<!-- 스크린샷 올리는 법: 저장소에 screenshots 폴더를 만들고 01.png ~ 06.png 이름으로 올리면 아래에 자동으로 표시됩니다. (이름·개수는 자유롭게 바꿔도 됩니다) -->
+
+| | |
+|:---:|:---:|
+| <img width="2560" height="1440" alt="3299050_20261018092911_1" src="https://github.com/user-attachments/assets/79f38388-70f6-4995-acf6-278141740cd0" /> | <img width="2560" height="1440" alt="3299050_20261018092816_1" src="https://github.com/user-attachments/assets/12a28bef-9593-4f1d-b0e8-342b1b7e2720" /> |
+| <img width="2560" height="1440" alt="3299050_20261018092736_1" src="https://github.com/user-attachments/assets/8d86f979-9f73-401d-81af-baa86a17130e" /> | <img width="2560" height="1440" alt="3299050_20261018092718_1" src="https://github.com/user-attachments/assets/84d54a96-dc46-47c1-bbe9-e5f383ae9cea" /> |
+| <img width="2560" height="1440" alt="3299050_20261018092643_1" src="https://github.com/user-attachments/assets/c20bea07-728f-42fb-beb2-066080f75128" /> | <img width="2560" height="1440" alt="3299050_20261018092526_1" src="https://github.com/user-attachments/assets/62356523-4a96-4cdb-9e39-3c275087d12d" /> |
 
 ---
 
@@ -39,6 +56,18 @@ Steam 게임 **No Such Place**의 영어 문구를 한국어로 바꿔 주는 �
 
 > [!NOTE]
 > 게임 폴더는 자동으로 찾습니다. 못 찾으면 **폴더 선택 창(찾아보기)** 이 열리니 NoSuchPlace 폴더를 골라 주세요.
+
+---
+
+## 🛡️ 실시간 한글 보호 (선택 기능)
+
+설치 화면의 `H` 메뉴에서 설치·켜기/끄기·삭제할 수 있습니다. **한글패치를 먼저 설치한 뒤** 사용하세요.
+
+- 게임 업데이트나 다른 패치가 번역 파일을 덮어써서 원본(중국어/영어)으로 돌아가도, 게임 안에서 번역 문구 7천여 개를 한글로 되돌려 줍니다.
+- 게임 언어를 **한국어**로 선택한 상태에서 동작합니다.
+- 글꼴·그림·언어 목록은 복구하지 못합니다. 그럴 때는 패치를 다시 설치하세요.
+- 게임 폴더에 [BepInEx](https://github.com/BepInEx/BepInEx)(공개 모드 로더)와 작은 플러그인이 추가됩니다. 삭제할 때 BepInEx도 같이 지울지 물어봅니다.
+- 이미 BepInEx를 쓰고 있다면 기존 설정은 건드리지 않고 플러그인만 추가합니다. 다른 모드 로더가 있으면 설치하지 않습니다.
 
 ---
 
@@ -62,7 +91,7 @@ Steam의 **게임 파일 무결성 확인**으로도 복구할 수 있습니다.
 ## ⚠️ 알려진 문제
 
 - 기계번역이라 어색한 문장이 있을 수 있습니다.
-- 표지판 같은 **이미지 안의 글자**는 번역되지 않았습니다.
+- 표지판 같은 **이미지 안의 글자**는 대부분 번역되지 않았습니다. (글자 크기가 너무 작아 바꿀 수 없는 경우도 있습니다.)
 - 언어 목록에 `한국어(WIP)`로 표시됩니다. 게임이 번역 중인 언어에 자동으로 붙이는 표기입니다.
 
 ---
@@ -86,6 +115,7 @@ Steam의 **게임 파일 무결성 확인**으로도 복구할 수 있습니다.
 ## 🛡️ 백신 오탐 안내
 
 설치 파일이 `.bat`이고 PowerShell로 게임 파일을 교체하기 때문에 백신이 오탐할 수 있습니다.
+VirusTotal 검사에서는 대부분의 백신이 탐지하지 않았고, 일부 중국 백신(Huorong, Kingsoft)만 오탐했습니다.
 파일은 메모장으로 열어 직접 확인할 수 있고, 게임 폴더 밖의 파일은 건드리지 않습니다.
 자세한 내용은 압축 파일 안의 `AntiVirus_FalsePositive_Notice.txt`를 확인하세요.
 
@@ -95,14 +125,3 @@ Steam의 **게임 파일 무결성 확인**으로도 복구할 수 있습니다.
 
 - 이 패치는 게임 제작사와 관계없는 **비공식 패치**입니다.
 - 번역 오류나 버그는 [Issues](https://github.com/SAM7599/No-Such-Place-Korean-Patch/issues)에 남겨 주세요.
-
----
-
-## 🖼️ 한국어 패치 적용 스크린샷
-<img width="2560" height="1440" alt="3299050_20261018092911_1" src="https://github.com/user-attachments/assets/79f38388-70f6-4995-acf6-278141740cd0" />
-<img width="2560" height="1440" alt="3299050_20261018092816_1" src="https://github.com/user-attachments/assets/12a28bef-9593-4f1d-b0e8-342b1b7e2720" />
-<img width="2560" height="1440" alt="3299050_20261018092736_1" src="https://github.com/user-attachments/assets/8d86f979-9f73-401d-81af-baa86a17130e" />
-<img width="2560" height="1440" alt="3299050_20261018092718_1" src="https://github.com/user-attachments/assets/84d54a96-dc46-47c1-bbe9-e5f383ae9cea" />
-<img width="2560" height="1440" alt="3299050_20261018092643_1" src="https://github.com/user-attachments/assets/c20bea07-728f-42fb-beb2-066080f75128" />
-<img width="2560" height="1440" alt="3299050_20261018092526_1" src="https://github.com/user-attachments/assets/62356523-4a96-4cdb-9e39-3c275087d12d" />
-
